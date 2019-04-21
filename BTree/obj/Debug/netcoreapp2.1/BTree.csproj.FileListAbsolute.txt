@@ -1,0 +1,14 @@
+E:\source\repos\BTree\BTree\bin\Debug\netcoreapp2.1\BTree.deps.json
+E:\source\repos\BTree\BTree\bin\Debug\netcoreapp2.1\BTree.runtimeconfig.json
+E:\source\repos\BTree\BTree\bin\Debug\netcoreapp2.1\BTree.runtimeconfig.dev.json
+E:\source\repos\BTree\BTree\bin\Debug\netcoreapp2.1\BTree.dll
+E:\source\repos\BTree\BTree\bin\Debug\netcoreapp2.1\BTree.pdb
+E:\source\repos\BTree\BTree\obj\Debug\netcoreapp2.1\BTree.csprojAssemblyReference.cache
+E:\source\repos\BTree\BTree\obj\Debug\netcoreapp2.1\BTree.csproj.CoreCompileInputs.cache
+E:\source\repos\BTree\BTree\obj\Debug\netcoreapp2.1\BTree.AssemblyInfoInputs.cache
+E:\source\repos\BTree\BTree\obj\Debug\netcoreapp2.1\BTree.AssemblyInfo.cs
+E:\source\repos\BTree\BTree\obj\Debug\netcoreapp2.1\BTree.dll
+E:\source\repos\BTree\BTree\obj\Debug\netcoreapp2.1\BTree.pdb
+E:\source\repos\BTree\BTree\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+E:\source\repos\BTree\BTree\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+E:\source\repos\BTree\BTree\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll

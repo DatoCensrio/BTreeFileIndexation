@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\source\\repos\\BTree\\BTree\\BTree.csproj": {}
+  },
+  "projects": {
+    "E:\\source\\repos\\BTree\\BTree\\BTree.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\source\\repos\\BTree\\BTree\\BTree.csproj",
+        "projectName": "BTree",
+        "projectPath": "E:\\source\\repos\\BTree\\BTree\\BTree.csproj",
+        "packagesPath": "C:\\Users\\Dato Cenario\\.nuget\\packages\\",
+        "outputPath": "E:\\source\\repos\\BTree\\BTree\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dato Cenario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
